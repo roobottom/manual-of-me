@@ -22,7 +22,7 @@ Here's a snapshot if you don’t have time to read the entire thing.
 
 * Building [shitty websites](https://roobottom.com/)
 * Cycling and running ([follow me on Strava](https://www.strava.com/athletes/1290606) if that’s your thing)
-* Listing to podcasts
+* Listening to podcasts
 * Board games
 * Museums
 * My family
