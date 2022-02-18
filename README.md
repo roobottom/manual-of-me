@@ -2,7 +2,7 @@
 
 ## What is this?
 
-It’s a way for those who work with me to learn about me, a polyfill for human interaction in a remote, post-Covid world. My college Emma wrote [a thing about it](https://designedandmade.substack.com/p/a-manual-of-me); you should read that.
+It’s a way for those who work with me to learn about me, a polyfill for face-to-face interaction in a remote, post-Covid world. My college Emma wrote [a thing about it](https://designedandmade.substack.com/p/a-manual-of-me); you should read that.
 
 ## At a glance
 
